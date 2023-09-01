@@ -1,2 +1,2 @@
-# text-summarizer
+# Text-summarizer
 Text summarization Plugin 
